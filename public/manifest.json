@@ -18,7 +18,8 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "https://rpi-esp32.github.io/react/",
+  "start_url": "./",
+  "scope": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
