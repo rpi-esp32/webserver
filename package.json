@@ -1,4 +1,5 @@
 {
+  "homepage": "https://rpi-esp32.github.io/react/",
   "name": "webserver",
   "version": "0.1.0",
   "private": true,
